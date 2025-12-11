@@ -166,7 +166,7 @@ if (localStorage.getItem('discordWidgetCollapsed') !== 'false') {
             widgetContainer.innerHTML = `
                 <div class="discord-widget-toggle"></div>
                 <div class="discord-widget">
-                    <div class="discord-banner"><img src="https://cdn.discordapp.com/guilds/691725745499668510/users/375737212186132490/banners/a_0235205998fc9c5e36a6ad344af1d5ac.gif?size=480" alt="Discord Banner"></div>
+                    <div class="discord-banner"><img src="res/faceit.jpg" alt="Discord Banner"></div>
                     <div class="discord-content">
                         <div class="discord-header">
                             <div class="discord-avatar-wrapper">
