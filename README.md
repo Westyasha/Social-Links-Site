@@ -61,7 +61,7 @@ The project is built entirely with **Vanilla JavaScript**, avoiding heavy framew
 
 ---
 
-## 📂 Project Structure
+## 📂 Structure
 
 ```text
 root/
