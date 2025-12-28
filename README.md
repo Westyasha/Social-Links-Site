@@ -9,7 +9,7 @@
   </p>
 
   <p align="center">
-    <a href="https://www.westyasha.online/"><strong>View Live Demo in New Site »</strong></a>
+    <a href="https://www.westyasha.online/"><strong>View Live Demо in New Site »</strong></a>
   </p>
 
   <!-- Badges -->
